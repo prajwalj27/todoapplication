@@ -1,4 +1,4 @@
-# To-do Application
+# My TODO App
 
 ### Instructions to use the To-do app
 
